@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * more_numbers - nmbr fct
- * 
- * Return: no return
+ *more_numbers - nmbr fct
+ *
+ *
+ *Return: no return
  */
 
 void more_numbers(void)
@@ -19,5 +20,5 @@ int i, j;
 			_putchar(j % 10 + '0');
 		}
 			_putchar('\n');
-		}
+	}
 }
